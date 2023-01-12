@@ -4,7 +4,7 @@ h1 {
 }
 
 body {
-
+	
     font-family: 'IBM Plex Serif', serif; 
 }
 
@@ -15,7 +15,7 @@ body {
     min-width: 100%;
     min-height: 100%;
     display: none;
-    z-index: 0;
+    z-index: 5;
   }
 
 form {
