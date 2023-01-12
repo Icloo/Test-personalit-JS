@@ -4,7 +4,7 @@ h1 {
 }
 
 body {
-    background: linear-gradient(45deg, #0F2027, #203A43,#2C5364);
+
     font-family: 'IBM Plex Serif', serif; 
 }
 
@@ -15,7 +15,7 @@ body {
     min-width: 100%;
     min-height: 100%;
     display: none;
-    z-index: -1;
+    z-index: 0;
   }
 
 form {
