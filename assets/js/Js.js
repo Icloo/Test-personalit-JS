@@ -158,7 +158,7 @@ myForm.addEventListener('submit', function(e) {
         resultat.innerHTML = "Vous êtes un Support";
         fort.innerHTML = "Votre point fort : Soin et/ou bouclier, résistance améliorée";
         faible.innerHTML = "Votre point faible : Nécéssite des alliés pour briller";
-        perso.innerHTML = ' <br> <img src="../Starter kit/assets/image/leona.jpg"> Leona <br> <img src="../Starter kit/assets/image/nami.jpg"> Nami <br> <img src="../Starter kit/assets/image/soraka.jpg"> Soraka <br> <img src="../Starter kit/assets/image/thresh.jpg"> thresh';
+        perso.innerHTML = ' <br> <img src="assets/image/leona.jpg"> Leona <br> <img src="assets/image/nami.jpg"> Nami <br> <img src="assets/image/soraka.jpg"> Soraka <br> <img src="assets/image/thresh.jpg"> thresh';
         e.preventDefault();
     }
 
@@ -170,7 +170,7 @@ myForm.addEventListener('submit', function(e) {
         resultat.innerHTML = "Vous êtes un Mage";
         fort.innerHTML = "Votre point fort : Polyvalence, bon compris entre dégât, entrave et mobilité";
         faible.innerHTML = "Votre point faible : Fragile";
-        perso.innerHTML = ' <br> <img src="../Starter kit/assets/image/lissandra.jpg"> Lissandra <br> <img src="../Starter kit/assets/image/viktor.jpg"> Viktor <br> <img src="../Starter kit/assets/image/ziggs.jpg"> Ziggs <br> <img src="../Starter kit/assets/image/tf.jpg"> Twisted fate';
+        perso.innerHTML = ' <br> <img src="assets/image/lissandra.jpg"> Lissandra <br> <img src="assets/image/viktor.jpg"> Viktor <br> <img src="assets/image/ziggs.jpg"> Ziggs <br> <img src="assets/image/tf.jpg"> Twisted fate';
     
         e.preventDefault();
     }
@@ -183,7 +183,7 @@ myForm.addEventListener('submit', function(e) {
         resultat.innerHTML = "Vous êtes un combattant";
         fort.innerHTML = "Votre point fort : Très résistant, des entraves et de dégâts";
         faible.innerHTML = "Votre point faible : manque de portée"
-        perso.innerHTML = ' <br> <img src="../Starter kit/assets/image/darius.jpg"> Darius <br> <img src="../Starter kit/assets/image/hecarim.jpg"> Hecarim <br> <img src="../Starter kit/assets/image/udyr.jpg"> Udyr <br> <img src="../Starter kit/assets/image/zac.jpg"> Zac';
+        perso.innerHTML = ' <br> <img src="assets/image/darius.jpg"> Darius <br> <img src="assets/image/hecarim.jpg"> Hecarim <br> <img src="assets/image/udyr.jpg"> Udyr <br> <img src="assets/image/zac.jpg"> Zac';
         e.preventDefault();
     }
 
@@ -195,7 +195,7 @@ myForm.addEventListener('submit', function(e) {
         resultat.innerHTML = "Vous êtes un Ad Carry";
         fort.innerHTML = "Votre point fort : gros dégât constant à longue portée";
         faible.innerHTML = "Votre point faible : pas de mobilité, fragile";
-        perso.innerHTML = ' <br> <img src="../Starter kit/assets/image/jinx.jpg"> Jinx <br> <img src="../Starter kit/assets/image/aphelios.jpg"> aphelios <br> <img src="../Starter kit/assets/image/kog.jpg"> Kog"maw <br> <img src="../Starter kit/assets/image/twitch.jpg"> Twitch';
+        perso.innerHTML = ' <br> <img src="assets/image/jinx.jpg"> Jinx <br> <img src="assets/image/aphelios.jpg"> aphelios <br> <img src="assets/image/kog.jpg"> Kog"maw <br> <img src="assets/image/twitch.jpg"> Twitch';
         e.preventDefault();
     }
 
@@ -207,7 +207,7 @@ myForm.addEventListener('submit', function(e) {
         resultat.innerHTML = "Vous êtes un Assasin";
         fort.innerHTML =  "Votre point fort : Grande mobilité, dégâts sur court terme et grande discretion";
         faible.innerHTML = "Votre point faible : fragile, faible contre personnage résistant";
-        perso.innerHTML = ' <br> <img src="../Starter kit/assets/image/talon.jpg"> Talon <br> <img src="../Starter kit/assets/image/pyke.jpg"> Pyke <br> <img src="../Starter kit/assets/image/rengar.jpg"> Rengar <br> <img src="../Starter kit/assets/image/kha.jpg"> Kha"zix';
+        perso.innerHTML = ' <br> <img src="assets/image/talon.jpg"> Talon <br> <img src="assets/image/pyke.jpg"> Pyke <br> <img src="assets/image/rengar.jpg"> Rengar <br> <img src="assets/image/kha.jpg"> Kha"zix';
         e.preventDefault();
     }
 
